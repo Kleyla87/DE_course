@@ -9,3 +9,9 @@
 commit 74baee14d6a1971e5b32dfee818ed697353d9585
 
 Date:   Sun Nov 27 22:51:37 2022 +0500
+
+https://github.com/TechnoPr0/DE_Sprint
+
+commit b4caf4b168cbbbeb4f5800dca9bf12cdbc5f5472
+
+Date:   Thu Oct 27 05:38:40 2022 +0300
